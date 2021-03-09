@@ -1,5 +1,18 @@
 #! /bin/bash
 
+
+# This is a combination of scripts which can be executed on a clean installed ubuntu machine.
+
+# References / sources:
+
+# NodeJs            - https://github.com/nodesource/distributions/blob/master/README.md#installation-instructions
+# Nginx             - http://nginx.org/en/linux_packages.html#Ubuntu
+# VSCode            - https://code.visualstudio.com/docs/setup/linux#_debian-and-ubuntu-based-distributions
+# Docker            - https://docs.docker.com/engine/install/ubuntu/
+# Docker-compose    - https://docs.docker.com/compose/install/
+
+# If I forgot to reference someone, feel free to report a bug or make a PR.
+
 # Stopping docker and removing all software prior to starting.
 # This is to make sure there are no conflicts.
 
