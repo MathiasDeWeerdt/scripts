@@ -26,6 +26,9 @@ List of npm packages:
 - vue
 - vue-cli
 
+# Requirements:
+- curl: sudo apt install curl
+
 ```bash
 curl -s https://raw.githubusercontent.com/MathiasDeWeerdt/scripts/main/install_all.sh | bash -E
 ```
