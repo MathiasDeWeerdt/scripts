@@ -2,7 +2,7 @@
 
 This repository will contain various scripts to automate the installation of numerous applications in a clean environment.
 
-## List of applications:
+## List of applications
 
 - Nginx
 - VSCode
@@ -10,7 +10,7 @@ This repository will contain various scripts to automate the installation of num
 - Docker
 - Docker-compose
 
-## List of npm packages:
+## List of npm packages
 
 - yarn
 - typescript
@@ -24,8 +24,12 @@ This repository will contain various scripts to automate the installation of num
 - vue
 - vue-cli
 
-### Requirements:
-- curl: sudo apt install curl
+## Requirements
+
+- curl: 
+```bash sudo apt install curl ```
+
+## Installation
 
 ```bash
 curl -s https://raw.githubusercontent.com/MathiasDeWeerdt/scripts/main/install_all.sh | bash -E
