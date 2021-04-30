@@ -2,9 +2,7 @@
 
 This repository will contain various scripts to automate the installation of numerous applications in a clean environment.
 
-yarn@latest typescript@latest jest@latest ts-jest@latest @types/jest@latest http-server@latest express@latest @types/express@latest ts-node-dev@latest vue@next @vue/cli@latest -g
-
-List of applications:
+## List of applications:
 
 - Nginx
 - VSCode
@@ -12,7 +10,7 @@ List of applications:
 - Docker
 - Docker-compose
 
-List of npm packages:
+## List of npm packages:
 
 - yarn
 - typescript
@@ -26,7 +24,7 @@ List of npm packages:
 - vue
 - vue-cli
 
-# Requirements:
+### Requirements:
 - curl: sudo apt install curl
 
 ```bash
