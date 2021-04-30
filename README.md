@@ -26,8 +26,10 @@ This repository will contain various scripts to automate the installation of num
 
 ## Requirements
 
-- curl: 
-```bash sudo apt install curl ```
+- curl
+```bash
+sudo apt install curl
+```
 
 ## Installation
 
