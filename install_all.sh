@@ -58,8 +58,8 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 
 # Running the nodeJs script and installing from the official repo
-curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash -
-sudo apt install nodejs -y
+curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+sudo apt-get install -y nodejs
 
 # Making sure we have the latest npm installed
 sudo npm install npm@latest -g
