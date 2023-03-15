@@ -4,32 +4,7 @@ This repository will contain various scripts to automate the installation of num
 
 ## List of applications
 
-- Nginx
-- VSCode
-- NodeJs / npm
-- Docker
-- Docker-compose
-
-## List of npm packages
-
-- yarn
-- typescript
-- jest
-- ts-jest
-- @types/jest
-- http-server
-- express
-- @types/express
-- ts-node-dev
-- vue
-- vue-cli
-
-## Requirements
-
-- curl
-```bash
-sudo apt install curl
-```
+- WIP
 
 ## Installation
 
