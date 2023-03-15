@@ -9,5 +9,5 @@ This repository will contain various scripts to automate the installation of num
 ## Installation
 
 ```bash
-curl -s https://raw.githubusercontent.com/MathiasDeWeerdt/scripts/main/install_all.sh | bash -E
+curl -s https://raw.githubusercontent.com/MathiasDeWeerdt/scripts/main/install-go.sh | bash -E
 ```
